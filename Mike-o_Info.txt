@@ -1,0 +1,6 @@
+CUSTOMer
+Mike-o
+1
+10000114223
+male
+mike.png

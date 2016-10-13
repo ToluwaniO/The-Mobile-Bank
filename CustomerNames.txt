@@ -1,0 +1,14 @@
+Mike-o
+10000114223
+male
+C:\\Users\\Awesome-Tbee\\Documents\\NetBeansProjects\\The Mobile Bank\\src\\the\\mobile\\bank\\profile pics\\mike.png
+
+Jamie-o
+10000124223
+female
+C:\\Users\\Awesome-Tbee\\Documents\\NetBeansProjects\\The Mobile Bank\\src\\the\\mobile\\bank\\profile pics\\jamie.jpg
+
+Tolu-o
+10000134223
+male
+C:\\Users\\Awesome-Tbee\\Documents\\NetBeansProjects\\The Mobile Bank\\src\\the\\mobile\\bank\\profile pics\\tolu.jpg

@@ -1,0 +1,36 @@
+5
+Donald Trump
+102632929
+male
+mike.png
+345167.0
+500.0
+
+Jonathan Goodluck
+102632929
+male
+mike.png
+67106.7
+1600.0
+
+Michael Kalu
+102632929
+Female
+C:\Users\Awesome-Tbee\Documents\docs\mike.png
+4767.0
+0
+
+Hillary  Clinton
+102632929
+MALE
+C:\Users\Awesome-Tbee\Documents\docs\mike.png
+13050.0
+2000.0
+
+samuel kazeem
+102632929
+male
+C:\Users\Awesome-Tbee\Documents\docs\mike.png
+1800.0
+0
+
